@@ -1,11 +1,136 @@
 {
     "games": [{
-            "id": 1,
-            "gameName": "subway"
-        },
-        {
-            "id": 2,
-            "gameName": "asphalt"
-        }
+        "id": "1",
+        "GameName": "Subway Surfers",
+        "prief": "SURF the urban wave! DODGE the oncoming trains!",
+        "description": "DASH as fast as you can! DODGE the oncoming trains! Help Jake, Tricky & Fresh escape from the grumpy Inspector and his dog. ★ Grind trains with your cool crew! ★ Colorful and vivid HD graphics! ★ Hoverboard Surfing! ★ Paint powered jetpack! ★ Lightning fast swipe acrobatics! ★ Challenge and help your friends! Join the most daring chase! A Universal App with HD optimized graphics. By Kiloo and Sybo.",
+        "Rate": 4.9,
+        "Category": "Arcade",
+        "developer": "SYBO Games",
+        "cover": "SubwayBanner.png",
+        "Recommended": false,
+        "Popular": false,
+        "downloads": "300k Downloads"
+      },
+      {
+        "id": "2",
+        "GameName": "Asphalt 9: Legends - Epic Car Action…",
+        "descriptionription": "Get in gear and take on the world’s best, most fearless street auto racer pros to become the next Asphalt Legend—from the creators of Asphalt 8: Airborne. You’re free to pick the dream car you need and race across spectacular locations against rival speed machines around the world.",
+        "Rate": 4.9,
+        "Category": "Racing",
+        "developer": "Gameloft",
+        "cover": "asphalt.png",
+        "Recommended": true,
+        "Popular": false,
+        "downloads": "200k Downloads"
+      },
+      {
+        "id": "3",
+        "GameName": "Zooba: Free-for-all",
+        "description": "Get ready for an adventure with Zooba: a fun free action-packed online multiplayer survival game! Zooba is a great free multiplayer survival battle royale game and combines MOBA play style (Multiplayer Online Battle Arena) to gives players an adrenaline-filled battle royale survival adventure!",
+        "Rate": 4.9,
+        "Category": "Action",
+        "developer": "G6Games",
+        "cover": "zooba.png",
+        "Recommended": true,
+        "Popular": false,
+        "downloads": "500k Downloads"
+      },
+      {
+        "id": "4",
+        "GameName": "METAL MADNESS PvP: Car Shooter & Twisted Action",
+        "description": "furious car PvP action. Brand new 2021 shooter packed with guns, sniping, shooting, war, brawls and royal battles! Challenge fighters and snipers from all around the world. Post apocalyptic twisted tour over bullet arenas. Load the guns and dive into mad crossfire derby like a squad of special ops! We bring you game enhanced with machineguns, thrusters, bombs, flamethrowers, rockets and sniper rifles!",
+        "Rate": 4.9,
+        "Category": "Action",
+        "developer": "GDCompany",
+        "cover": "metalmadness.png",
+        "Recommended": true,
+        "Popular": false,
+        "downloads": "300k Downloads"
+      },
+      {
+        "id": "5",
+        "GameName": "Call of Duty®: Mobile",
+        "description": "Official CALL OF DUTY® designed exclusively for mobile phones. Play iconic multiplayer maps and modes anytime, anywhere. 100 player Battle Royale battleground? Fast 5v5 team deathmatch? Sniper vs sniper battle? Activision’s free-to-play CALL OF DUTY®: MOBILE has it all.",
+        "Rate": 4.9,
+        "Category": "Sports",
+        "developer": "Activision",
+        "cover": "callofduty.png",
+        "Recommended": true,
+        "Popular": false,
+        "downloads": "100k Downloads"
+      },
+      {
+        "id": "6",
+        "GameName": "Cover Fire: Shooting Games Free",
+        "description": "Your duty is to lead the battle and become the best shooter and sniper.Download now for free one of best offline shooting games on mobiles",
+        "Rate": 4.9,
+        "Category": "Action",
+        "developer": "Genera Games",
+        "cover": "coverfire.png",
+        "Recommended": true,
+        "Popular": false,
+        "downloads": "300k Downloads"
+      },
+      {
+        "id": "7",
+        "GameName": "Eternity Legends Premium…",
+        "description": "embark on a fascinating journey from the hot desert through many famous places in the world to lock Thanatos. Form and train a legendary team of warriors to participate in battle, take daily challenges, conquer epic bosses, and compete in the arena. Pass levels, upgrade your soldiers, collect rare weapons, increase military power and use appropriate tactics. Call for help from his friends in order to defeat opponents on the battlefield.",
+        "Rate": 4.9,
+        "Category": "Action",
+        "developer": "DIVMOB",
+        "cover": "eternity.png",
+        "Recommended": false,
+        "Popular": true,
+        "downloads": "500k Downloads"
+      },
+      {
+        "id": "8",
+        "GameName": "Boris and the Dark Survival…",
+        "description": "Dive into the studio to find new scares, new missions, new songs, new faces, new secrets, and new dance steps for Boris.",
+        "Rate": 4.9,
+        "Category": "Adventure",
+        "developer": "Joey Drew Studios",
+        "cover": "boris.png",
+        "Recommended": false,
+        "Popular": true,
+        "downloads": "800k Downloads"
+      },
+      {
+        "id": "9",
+        "GameName": "Mad Skills BMX 2",
+        "description": "Mad Skills BMX 2 has finally arrived! See for yourself why Mad Skills games have been installed more than 40 million times worldwide, by action sports enthusiasts, professional athletes, and casual gamers alike. This is side-scrolling racing action as you’ve never experienced it, racing against people from across the globe on carefully designed tracks that will challenge your skills and — sometimes — your sanity.",
+        "Rate": 4.9,
+        "Category": "Sports",
+        "developer": "Turborilla",
+        "cover": "madskills.png",
+        "Recommended": false,
+        "Popular": true,
+        "downloads": "200k Downloads"
+      },
+      {
+        "id": "10",
+        "GameName": "The House of Da Vinci 2",
+        "description": "Become Giacomo, the apprentice to the Renaissance genius, Leonardo da Vinci. Explore the world full of puzzles, mechanical gadgets and mind-twisting inventions. Travel through time and witness a series of mysterious events that led to the greatest discovery in human history.",
+        "Rate": 4.9,
+        "Category": "Puzzle",
+        "developer": "Blue Brain Games s.r.o.",
+        "cover": "theHouse.png",
+        "Recommended": false,
+        "Popular": true,
+        "downloads": "500k Downloads"
+      },
+      {
+        "id": "11",
+        "GameName": "Cars Racing Online",
+        "description": "Cars Racing Online is among a few racing games most fun you can ever get on mobile gaming.Challenge your competitors online or cruise by yourself! You will plunge in a world full of adrenalin, sport cars and high speed highways!.",
+        "Rate": 4.9,
+        "Category": "Racing",
+        "developer": "Jahaa",
+        "cover": "carsracing.png",
+        "Recommendeddd": false,
+        "Popular": true,
+        "downloads": "800k Downloads"
+      }
     ]
-}
+  }
