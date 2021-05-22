@@ -1,0 +1,11 @@
+{
+    "games": [{
+            "id": 1,
+            "gameName": "subway"
+        },
+        {
+            "id": 2,
+            "gameName": "asphalt"
+        }
+    ]
+}
